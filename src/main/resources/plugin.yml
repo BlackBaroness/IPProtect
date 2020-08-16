@@ -1,0 +1,4 @@
+name: IPProtect
+version: ${project.version}
+main: ru.sapphirelife.IPProtect
+authors: [Black_Baroness]

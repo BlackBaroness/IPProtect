@@ -1,0 +1,10 @@
+# reason for kick
+reason: Your IP is not in the whitelist for your nickname!
+
+Black_Baroness:
+  - 0.0.0.0
+  - some_ip
+
+somebody:
+  - once_told_me
+  - the_world_is_gonna_roll_me
